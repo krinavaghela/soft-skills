@@ -1,6 +1,6 @@
 # soft-skills
 
-** Characteristics of teams - The Great Team **
+**Characteristics of teams - The Great Team**
 
 - Be optimistic.
 - Meetings were organized and valuable.
